@@ -6,13 +6,16 @@ Example
 `rounders(value) = 20;`
 
 - For value = 1234, the output should be
-```rounders(value) = 1000.
-1234 -> 1230 -> 1200 -> 1000.```
+
+```
+rounders(value) = 1000.
+1234 -> 1230 -> 1200 -> 1000.
+```
 
 - For value = 1445, the output should be
+
 ```
 rounders(value) = 2000.
-
 1445 -> 1450 -> 1500 -> 2000.
 ```
 Input/Output
